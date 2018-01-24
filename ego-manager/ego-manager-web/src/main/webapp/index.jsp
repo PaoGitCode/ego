@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	This is ego-manager-web!
 </body>
 </html>
