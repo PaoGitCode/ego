@@ -7,4 +7,11 @@
   </parent>
   <artifactId>ego-manager-web</artifactId>
   <packaging>war</packaging>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.ego</groupId>
+  		<artifactId>ego-manager-service</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
